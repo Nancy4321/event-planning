@@ -395,7 +395,7 @@ header.main-header nav .ownmenu li {
       SUB BANNER
 ========================================================*/
 .sub-banner {
-	background: url(../images/bg/sub-bnr.jpg) center center fixed no-repeat;
+	background: url(../images/bg/bgbw4.jpg) center center fixed no-repeat;
 	background-size: cover;
 	max-height: 380px;
 	min-height: 380px;
@@ -1209,7 +1209,7 @@ header.main-header nav .ownmenu li {
 	color: #999999;
 }
 .parallax-bg {
-	background: url(../images/bg/testi-bg.jpg) center center fixed no-repeat;
+	background: url(../images/bg/bgbw1.jpg) center center fixed no-repeat;
 	background-size: cover !important;
 	text-align: center;
 }
@@ -1427,7 +1427,7 @@ header.main-header nav .ownmenu li {
 	background: #fff;
 }
 .tastimonial-bg {
-	background: url(../images/bg/testi-bg.jpg) center center fixed no-repeat;
+	background: url(../images/bg/bgbw3.jpg) center center fixed no-repeat;
 	background-size: cover;
 }
 .tastimonial-bg .testi p {
